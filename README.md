@@ -1,2 +1,3 @@
 # Face_Recognition
- Face Recognition
+ Face Recognition: 
+ Face_recognition is a tool that helps computers recognize and work with faces in pictures. It's like a special program created by a person named Adam Geitgey. This program makes it easier for other computer programs written in the Python language to do things like find faces in photos, figure out who a person is based on their face, and even identify where the important parts of a face, like the eyes and nose, are located. It's handy because it saves developers a lot of time and effort when they want to work with faces in their own software applications.
